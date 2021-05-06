@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/scripts.js" afterDir="false" />
-    </list>
+    <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="Add images" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\docs\assets\img" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\docs" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\assets\img" />
@@ -58,7 +54,7 @@
       <updated>1620327761624</updated>
       <workItem from="1620327762931" duration="3000" />
       <workItem from="1620338570572" duration="418000" />
-      <workItem from="1620339115350" duration="816000" />
+      <workItem from="1620339115350" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="Create Portfolio Page &#10;Add image&#10;Add document&#10;Add audio&#10;Add resume&#10;Add websites">
       <created>1620338981394</created>
@@ -74,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620339822417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add docs">
+      <created>1620339983296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620339983296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add images">
+      <created>1620340176563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340176563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +93,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Portfolio Page &#10;Add image&#10;Add document&#10;Add audio&#10;Add resume&#10;Add websites" />
     <MESSAGE value="Update readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update readme.md" />
+    <MESSAGE value="Add docs" />
+    <MESSAGE value="Add images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add images" />
   </component>
 </project>
