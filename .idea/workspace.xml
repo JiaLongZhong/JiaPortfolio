@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <updated>1620327761624</updated>
       <workItem from="1620327762931" duration="3000" />
       <workItem from="1620338570572" duration="418000" />
-      <workItem from="1620339115350" duration="1730000" />
+      <workItem from="1620339115350" duration="2396000" />
     </task>
     <task id="LOCAL-00001" summary="Create Portfolio Page &#10;Add image&#10;Add document&#10;Add audio&#10;Add resume&#10;Add websites">
       <created>1620338981394</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620340711309</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update readme.md">
+      <created>1620340874599</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340874599</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,8 +126,8 @@
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="Add docs" />
     <MESSAGE value="Add images" />
-    <MESSAGE value="update readme.md" />
     <MESSAGE value="relocate file" />
-    <option name="LAST_COMMIT_MESSAGE" value="relocate file" />
+    <MESSAGE value="update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
   </component>
 </project>
