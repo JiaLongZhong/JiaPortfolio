@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="Add images" />
+    <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +54,7 @@
       <updated>1620327761624</updated>
       <workItem from="1620327762931" duration="3000" />
       <workItem from="1620338570572" duration="418000" />
-      <workItem from="1620339115350" duration="1114000" />
+      <workItem from="1620339115350" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="Create Portfolio Page &#10;Add image&#10;Add document&#10;Add audio&#10;Add resume&#10;Add websites">
       <created>1620338981394</created>
@@ -84,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620340176563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add images">
+      <created>1620340251390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340251390</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update readme.md">
+      <created>1620340504512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340504512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +109,7 @@
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="Add docs" />
     <MESSAGE value="Add images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add images" />
+    <MESSAGE value="update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
   </component>
 </project>
