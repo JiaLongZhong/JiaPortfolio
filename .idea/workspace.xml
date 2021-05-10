@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72dc7f99-4bd9-49b0-a9cd-aa7cee32414a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +39,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\docs\assets\img" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\docs" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio" />
-      <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\docs\assets\img" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\assets\img" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\JiaPortfolio\css" />
     </key>
@@ -58,7 +57,9 @@
       <workItem from="1620327762931" duration="3000" />
       <workItem from="1620338570572" duration="418000" />
       <workItem from="1620339115350" duration="2465000" />
-      <workItem from="1620520024305" duration="977000" />
+      <workItem from="1620520024305" duration="1426000" />
+      <workItem from="1620521642258" duration="61000" />
+      <workItem from="1620522080452" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="Create Portfolio Page &#10;Add image&#10;Add document&#10;Add audio&#10;Add resume&#10;Add websites">
       <created>1620338981394</created>
@@ -123,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620342786105</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add hero text and hero Image, plus update sonification project">
+      <created>1620521071721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620521071721</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add google tracking">
+      <created>1620521262691</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620521262691</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +152,8 @@
     <MESSAGE value="relocate file" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="update about me." />
-    <option name="LAST_COMMIT_MESSAGE" value="update about me." />
+    <MESSAGE value="Add hero text and hero Image, plus update sonification project" />
+    <MESSAGE value="Add google tracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add google tracking" />
   </component>
 </project>
